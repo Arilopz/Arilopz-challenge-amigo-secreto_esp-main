@@ -17,7 +17,8 @@ Este es un simple pero emocionante juego de Amigo Secreto, donde puedes agregar 
 1. **Clona el repositorio**:
    ```bash
    https://github.com/arilopz/Arilopz-challenge-amigo-secreto_esp-main.git
-   git clone 
+
+ git clone 
    
 cd amigo-secreto
 
