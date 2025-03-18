@@ -18,9 +18,7 @@ Este es un simple pero emocionante juego de Amigo Secreto, donde puedes agregar 
    ```bash
    https://arilopz.github.io/Arilopz-challenge-amigo-secreto_esp-main/
 
- git clone 
-   
-cd amigo-secreto
+ 
 
 Abre el archivo index.html en tu navegador favorito. 🌐
 
