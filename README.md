@@ -19,7 +19,7 @@ Este es un simple pero emocionante juego de Amigo Secreto, donde puedes agregar 
    git clone https://github.com/arilopz/Arilopz-challenge-amigo-secreto_esp-main.git
    cd amigo-secreto
 
-   Abre el archivo index.html en tu navegador favorito. 🌐
+Abre el archivo index.html en tu navegador favorito. 🌐
 
 Agrega los nombres de tus amigos en el campo de texto y haz clic en "Añadir". 👫
 
